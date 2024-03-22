@@ -1,0 +1,9 @@
+<svg width="39" height="37" viewBox="0 0 39 37" xmlns="http://www.w3.org/2000/svg">
+    <g transform="translate(0 1)" fill="none" fill-rule="evenodd">
+        <circle fill="#C18253" cx="16" cy="19" r="16"/>
+        <circle stroke="#EDB58A" cx="22" cy="16" r="16"/>
+        <text font-family="IRANSansWeb-Bold, IRANSansWeb" font-size="18" font-weight="bold" fill="#FFF">
+                        <tspan x="10" y="25">۳</tspan>
+                    </text>
+    </g>
+</svg>
