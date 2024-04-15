@@ -89,7 +89,7 @@
        background-color: #1F2739;
  }
  
- .container td:last-child { color: #FB667A; }
+ .container td:last-child { color: rgb(255, 153, 0);  }
  
  .container tr:hover {
     background-color: #464A52;
